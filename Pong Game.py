@@ -1,7 +1,7 @@
+#Made by ArhanCodes
 
 
-
-#Function that will Draw Border
+#Function that will Draw the Border
 
 def drawborder():
     b=turtle.Turtle()
@@ -18,7 +18,7 @@ def drawborder():
           b.rt(90)
 
 
- #Draw a Pong Ball
+ #Draw a Ping Pong Ball
     
 
 #Player A Drawing Function
